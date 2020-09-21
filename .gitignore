@@ -1,0 +1,6 @@
+build/*
+.gdbinit.ci
+main/.clangd/*
+main/.clangd
+.clangd/*
+.clangd
